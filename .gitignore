@@ -1,0 +1,7 @@
+# Unityで不要なフォルダ
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+Assets/Fonts/NotoSansJP-Medium SDF.asset
